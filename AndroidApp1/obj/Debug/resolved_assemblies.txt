@@ -1,0 +1,10 @@
+D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\obj\Debug\assemblies\AndroidApp1.dll
+D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\obj\Debug\assemblies\Mono.Android.dll
+D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\obj\Debug\assemblies\mscorlib.dll
+D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\obj\Debug\assemblies\Newtonsoft.Json.dll
+D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\obj\Debug\assemblies\System.Core.dll
+D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\obj\Debug\assemblies\System.dll
+D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\obj\Debug\assemblies\System.Xml.dll
+D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\obj\Debug\assemblies\System.Xml.Linq.dll
+D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\obj\Debug\assemblies\System.ServiceModel.Internals.dll
