@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="AndroidApp1.AndroidApp1" android:versionCode="131073" android:versionName="1.0">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="AndroidApp1.AndroidApp1" android:versionCode="131073" android:versionName="1.0" android:installLocation="auto">
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="15" />
-  <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-  <application android:label="AndroidApp1" android:name="mono.android.app.Application" android:allowBackup="true" android:debuggable="true">
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:label="AndroidApp1" android:icon="@drawable/me" android:name="mono.android.app.Application" android:allowBackup="true" android:debuggable="true">
     <activity android:label="DetailActivity" android:name="md5c178831cd46fc53bebc42cf953f78ced.DetailActivity" />
     <activity android:icon="@drawable/icon" android:label="AndroidApp1" android:name="md5c178831cd46fc53bebc42cf953f78ced.MainActivity">
       <intent-filter>

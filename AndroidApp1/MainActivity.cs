@@ -8,6 +8,7 @@ using Android.OS;
 using Android.Graphics.Drawables;
 using AndroidApp1.Models;
 using Newtonsoft.Json;
+using System.IO;
 
 namespace AndroidApp1
 {
@@ -44,6 +45,11 @@ namespace AndroidApp1
 
             string jsonString = JsonConvert.SerializeObject(person);
 
+            
+            string filename = "myOrder";
+            Stream outputStream = OpenFileOutput(filename, FileCreationMode.Private);
+            outputStream.Write(System.Text.Encoding.ASCII.GetBytes(jsonString), 0, jsonString.Length);
+            outputStream.Close();
 
             //how to use Intent
             StartActivity(typeof(DetailActivity));
