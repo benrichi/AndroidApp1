@@ -16,5 +16,6 @@ D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\obj\Debug\res\drawable\bottlenose_do
 D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\obj\Debug\res\drawable\bottlenose_dolphin_grey.jpg
 D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\bin\Debug\Newtonsoft.Json.dll
 D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\obj\Debug\AndroidApp1.csprojResolveAssemblyReference.cache
 D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\obj\Debug\AndroidApp1.dll.mdb
 D:\Code\AndroidApp1\AndroidApp1\AndroidApp1\bin\Debug\AndroidApp1.dll.mdb

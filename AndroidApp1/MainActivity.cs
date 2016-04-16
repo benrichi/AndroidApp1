@@ -52,7 +52,7 @@ namespace AndroidApp1
             outputStream.Close();
 
             //how to use Intent
-            StartActivity(typeof(DetailActivity));
+            //StartActivity(typeof(DetailActivity));
         }
 
         private void ButtonClick()

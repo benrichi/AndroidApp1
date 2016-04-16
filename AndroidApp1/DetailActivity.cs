@@ -25,7 +25,7 @@ namespace AndroidApp1
                 //task = TodoItemManager.GetTask(taskID);
             }
 
-            SetContentView(Resource.Layout.layout1);
+            //SetContentView(Resource.Layout.layout1);
 
             //EditText phoneNumber = FindViewById<EditText>(Resource.Id.editText1);
 
